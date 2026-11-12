@@ -1,0 +1,16 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "China to Canada DDP Notes",
+  "colors": {
+    "primary": "#0F766E"
+  },
+  "navigation": {
+    "pages": [
+      "index"
+    ]
+  },
+  "seo": {
+    "indexing": "all"
+  }
+}
